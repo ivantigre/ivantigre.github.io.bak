@@ -1,7 +1,5 @@
 ---
-title: Welcome to my blog
+title: Bienvenidos a mi blog
 ---
 
 ¡Hola!
-
-Esta es mi primera página de prueba.
